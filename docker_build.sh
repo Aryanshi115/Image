@@ -1,0 +1,1 @@
+docker build -t scan_analytics_image .

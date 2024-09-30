@@ -1,0 +1,1 @@
+docker run -d -p 8511:8511  scan_analytics_image
