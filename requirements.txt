@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+boto3
+datetime
+elasticsearch<8.11.1
+pandas
+requests
